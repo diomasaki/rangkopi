@@ -3,7 +3,7 @@ export const data = [
     id: 1,
     name: "home",
     title: "Beranda",
-    desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    desc: "Our team ✨",
     photo: "home.jpeg",
     longDesc:
       "Promo hanya sampai 29 Oktober ajaaaaa✨ yuk buruan! kita ngumpul dan berdiskusi bareng teman-teman semua mau berkarya apa kita selanjutnyaa!?✊🏻🔥.",
@@ -38,7 +38,7 @@ export const data = [
     id: 2,
     name: "description",
     title: "Rangkopi",
-    desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    desc: "Our team ✨",
     photo: "production.jpeg",
     longDesc:
       "Jadwal buka: Weekdays: 15:00 - 23:00 Wib Weekend:  16:00 - 24:00 Wib",
@@ -73,7 +73,7 @@ export const data = [
     id: 4,
     name: "aboutus",
     title: "Tentang Kami",
-    desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    desc: "Our team ✨",
     photo: "aboutus.jpeg",
     longDesc:
       "Kedai Kopi #ngopikokmahal",

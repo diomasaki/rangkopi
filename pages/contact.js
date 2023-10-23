@@ -43,7 +43,7 @@ const Contact = () => {
         bottom="-60vh"
         className={style.circle}
       />
-      <h1 className={style.title}>Reservasi Tempat atau Hubungi Kami!</h1>
+      <h1 className={style.title}>Reservasi Tempat!</h1>
       <form ref={formRef} onSubmit={handleSubmit} className={style.form}>
         <input
           className={style.inputS}
