@@ -10,27 +10,27 @@ export const data = [
     images: [
       {
         id: 1,
-        url: "https://images.pexels.com/photos/962000/pexels-photo-962000.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/263986736_427253045679278_6272029751174999568_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kFdOGqOH7N4AX_vEwO3&_nc_ht=scontent.fcgk42-1.fna&oh=00_AfBbhDaPgzeHVegtdg22Zq9cqpqeIUwro4iffw2iXhCd2A&oe=653BF304",
       },
       {
         id: 2,
-        url: "https://images.pexels.com/photos/6489663/pexels-photo-6489663.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/255363296_409824874088762_2534404941562390464_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FSXGLGY7lDUAX9R9XM-&_nc_ht=scontent.fcgk42-1.fna&oh=00_AfBx7BNXPpprXPVRzsH1nXttAjg96956QbVHiLgigDej9w&oe=653B66FB",
       },
       {
         id: 3,
-        url: "https://images.pexels.com/photos/3593865/pexels-photo-3593865.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      },
-      {
-        id: 4,
-        url: "https://images.pexels.com/photos/4065906/pexels-photo-4065906.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://10619-2.s.cdn12.com/rests/original/110_511402460.jpg",
       },
       {
         id: 5,
-        url: "https://images.pexels.com/photos/6373305/pexels-photo-6373305.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/311583791_556005893193763_7953713080179414298_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UbM-wt8FILEAX-LAvqS&_nc_ht=scontent.fcgk42-1.fna&oh=00_AfB-EHWRIH9DgVJZsksox5YFgqYmwDmHJABsKDsTXGKPVQ&oe=653CADD6",
       },
       {
         id: 6,
-        url: "https://images.pexels.com/photos/4197693/pexels-photo-4197693.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i0.wp.com/i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ae178045-a055-430a-bad4-402b0a8501b5_IMG_20201006_100710_269.jpg",
+      },
+      {
+        id: 4,
+        url: "https://qph.cf2.quoracdn.net/main-qimg-c901c0501d8602453002dcf15c19d4a1-lq",
       },
     ],
   },
@@ -80,15 +80,15 @@ export const data = [
     images: [
       {
         id: 1,
-        url: "https://www.gannett-cdn.com/presto/2022/03/16/USAT/005898b4-61a1-43a3-8c7c-3f9ade26f5f3-09042020-New-Lids-Imagery-20.jpg?crop=5111,2875,x0,y371&width=3200&height=1801&format=pjpg&auto=webp",
+        url: "https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/311583791_556005893193763_7953713080179414298_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UbM-wt8FILEAX-LAvqS&_nc_ht=scontent.fcgk42-1.fna&oh=00_AfB-EHWRIH9DgVJZsksox5YFgqYmwDmHJABsKDsTXGKPVQ&oe=653CADD6",
       },
       {
         id: 2,
-        url: "https://images.summitmedia-digital.com/yummyph/images/2021/04/08/starbucks-coffee-traveler-kit-01.jpg",
+        url: "https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/263986736_427253045679278_6272029751174999568_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kFdOGqOH7N4AX_vEwO3&_nc_ht=scontent.fcgk42-1.fna&oh=00_AfBbhDaPgzeHVegtdg22Zq9cqpqeIUwro4iffw2iXhCd2A&oe=653BF304",
       },
       {
         id: 3,
-        url: "https://majalah.ottenstatic.com/uploads/2015/08/s1.jpg",
+        url: "https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/255363296_409824874088762_2534404941562390464_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FSXGLGY7lDUAX9R9XM-&_nc_ht=scontent.fcgk42-1.fna&oh=00_AfBx7BNXPpprXPVRzsH1nXttAjg96956QbVHiLgigDej9w&oe=653B66FB",
       },
       {
         id: 4,
@@ -115,27 +115,27 @@ export const data = [
     images: [
       {
         id: 1,
-        url: "https://images.pexels.com/photos/962000/pexels-photo-962000.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/263986736_427253045679278_6272029751174999568_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kFdOGqOH7N4AX_vEwO3&_nc_ht=scontent.fcgk42-1.fna&oh=00_AfBbhDaPgzeHVegtdg22Zq9cqpqeIUwro4iffw2iXhCd2A&oe=653BF304",
       },
       {
         id: 2,
-        url: "https://images.pexels.com/photos/6489663/pexels-photo-6489663.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/255363296_409824874088762_2534404941562390464_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FSXGLGY7lDUAX9R9XM-&_nc_ht=scontent.fcgk42-1.fna&oh=00_AfBx7BNXPpprXPVRzsH1nXttAjg96956QbVHiLgigDej9w&oe=653B66FB",
       },
       {
         id: 3,
-        url: "https://images.pexels.com/photos/3593865/pexels-photo-3593865.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://qph.cf2.quoracdn.net/main-qimg-c901c0501d8602453002dcf15c19d4a1-lq",
       },
       {
         id: 4,
-        url: "https://images.pexels.com/photos/4065906/pexels-photo-4065906.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/311583791_556005893193763_7953713080179414298_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UbM-wt8FILEAX-LAvqS&_nc_ht=scontent.fcgk42-1.fna&oh=00_AfB-EHWRIH9DgVJZsksox5YFgqYmwDmHJABsKDsTXGKPVQ&oe=653CADD6",
       },
       {
         id: 5,
-        url: "https://images.pexels.com/photos/6373305/pexels-photo-6373305.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i0.wp.com/i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ae178045-a055-430a-bad4-402b0a8501b5_IMG_20201006_100710_269.jpg",
       },
       {
         id: 6,
-        url: "https://images.pexels.com/photos/4197693/pexels-photo-4197693.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://10619-2.s.cdn12.com/rests/original/110_511402460.jpg",
       },
     ],
   },

@@ -4,7 +4,7 @@ const Product = () => {
   return (
     <div className={styles.container}>
       <img
-        src="https://png.monster/wp-content/uploads/2022/03/png.monster-9.png"
+        src="https://assets-a1.kompasiana.com/items/album/2023/01/15/homemade-iced-americano-recipe-1-720x1080-63c3e4d84addee7149048932.jpg?t=o&v=770"
         alt=""
         width="300"
         height="300"
