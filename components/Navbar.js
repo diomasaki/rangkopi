@@ -32,7 +32,7 @@ const Navbar = () => {
       </div>
       <ul onClick={()=>setOpen(false)} className={style.menu} style={{ right: open ? "0px" : "-50vw" }}>
         <li className={style.menuItem}>
-          <Link href="/">HOME</Link>
+          <Link href="/">RANGKOPI</Link>
         </li>
         <li className={style.menuItem}>
           <Link href="/products/home">HOME</Link>
