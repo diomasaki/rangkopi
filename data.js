@@ -2,11 +2,11 @@ export const data = [
   {
     id: 1,
     name: "home",
-    title: "Home",
+    title: "Beranda",
     desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
     photo: "home.jpeg",
     longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      "Promo hanya sampai 29 Oktober ajaaaaa✨ yuk buruan! kita ngumpul dan berdiskusi bareng teman-teman semua mau berkarya apa kita selanjutnyaa!?✊🏻🔥.",
     images: [
       {
         id: 1,
@@ -36,47 +36,12 @@ export const data = [
   },
   {
     id: 2,
-    name: "descriptions",
-    title: "Descriptions",
-    desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
-    photo: "desc.jpeg",
-    longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
-    images: [
-      {
-        id: 1,
-        url: "https://images.pexels.com/photos/9965121/pexels-photo-9965121.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      },
-      {
-        id: 2,
-        url: "https://images.pexels.com/photos/9716799/pexels-photo-9716799.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      },
-      {
-        id: 3,
-        url: "https://images.pexels.com/photos/9395308/pexels-photo-9395308.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      },
-      {
-        id: 4,
-        url: "https://images.pexels.com/photos/10067102/pexels-photo-10067102.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      },
-      {
-        id: 5,
-        url: "https://images.pexels.com/photos/5262378/pexels-photo-5262378.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      },
-      {
-        id: 6,
-        url: "https://images.pexels.com/photos/9796405/pexels-photo-9796405.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      },
-    ],
-  },
-  {
-    id: 3,
     name: "description",
-    title: "Description",
+    title: "Rangkopi",
     desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
     photo: "production.jpeg",
     longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      "Jadwal buka: Weekdays: 15:00 - 23:00 Wib Weekend:  16:00 - 24:00 Wib",
     images: [
       {
         id: 1,
@@ -107,11 +72,11 @@ export const data = [
   {
     id: 4,
     name: "aboutus",
-    title: "Aboutus",
+    title: "Tentang Kami",
     desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
     photo: "aboutus.jpeg",
     longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      "Kedai Kopi #ngopikokmahal",
     images: [
       {
         id: 1,
@@ -147,7 +112,7 @@ export const users = [
     logo: "google.png",
     avatar: "masaki.jpeg",
     comment:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Utconsectetur veniam fugiat labore quaerat possimus laudantium.",
+      "Contact: diomasaki24@gmail.com",
     name: "Dio Masaki Wahyu",
     title: "Project Manager / Programmer",
   },

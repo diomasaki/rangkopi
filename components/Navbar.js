@@ -10,19 +10,19 @@ const Navbar = () => {
       <Link href="/">RANGKOPI E-CATALOG</Link>
       <ul className={style.list}>
         <li className={style.listItem}>
-          <Link href="/products/home">HOME</Link>
+          <Link href="/products/home">BERANDA</Link>
         </li>
         <li className={style.listItem}>
-          <Link href="/productlist">PRODUCT</Link>
+          <Link href="/productlist">PRODUK</Link>
         </li>
         <li className={style.listItem}>
-          <Link href="/products/description">DESCRIPTION</Link>
+          <Link href="/products/description">RANGKOPI</Link>
         </li>
         <li className={style.listItem}>
-          <Link href="/products/aboutus">ABOUT US</Link>
+          <Link href="/products/aboutus">TENTANG KAMI</Link>
         </li>
         <li className={style.listItem}>
-          <Link href="/contact">CONTACT</Link>
+          <Link href="/contact">KONTAK</Link>
         </li>
       </ul>
       <div className={style.hamburger} onClick={() => setOpen(!open)}>
@@ -35,19 +35,19 @@ const Navbar = () => {
           <Link href="/">RANGKOPI</Link>
         </li>
         <li className={style.menuItem}>
-          <Link href="/products/home">HOME</Link>
+          <Link href="/products/home">BERANDA</Link>
         </li>
         <li className={style.menuItem}>
-          <Link href="/productlist">PRODUCT</Link>
+          <Link href="/productlist">PRODUK</Link>
         </li>
         <li className={style.menuItem}>
-          <Link href="/products/description">DESCRIPTION</Link>
+          <Link href="/products/description">RANGKOPI</Link>
         </li>
         <li className={style.menuItem}>
-          <Link href="/products/aboutus">ABOUT US</Link>
+          <Link href="/products/aboutus">TENTANG KAMI</Link>
         </li>
         <li className={style.menuItem}>
-          <Link href="/contact">CONTACT</Link>
+          <Link href="/contact">KONTAK</Link>
         </li>
       </ul>
     </div>

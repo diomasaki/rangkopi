@@ -9,10 +9,11 @@ const Product = () => {
         width="300"
         height="300"
       />
-      <h1 className={styles.title}>AMERICANO</h1>
-      <span className={styles.price}>RP 20.000</span>
+      <h1 className={styles.title}>Americano</h1>
+      <span className={styles.price}>RP 18.000</span>
       <p className={styles.desc}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Rangers! udah cobain Americano dengan beans blend robusta dari Rangkopi belum!? Dijamin deh ini seger bangeeeettt untuk harimu 😋
+          Mumpung lagi ada promo jadi cuma 18k ajaa 😆
       </p>
       <div className={styles.info}></div>
     </div>

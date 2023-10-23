@@ -9,10 +9,11 @@ const Product = () => {
         width="300"
         height="300"
       />
-      <h1 className={styles.title}>MILK COFFEE</h1>
+      <h1 className={styles.title}>Kopi Susu</h1>
       <span className={styles.price}>RP 19.000</span>
       <p className={styles.desc}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Rangers! udah cobain Kopi susu dari Rangkopi belum!? dijamin deh ini seger bangeeeettt untuk harimu 😋
+          Mumpung lagi ada promo jadi cuma 19k aja, buruan serbuuu sebelum kehabisan yaaaaa😆
       </p>
       <div className={styles.info}></div>
     </div>

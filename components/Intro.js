@@ -11,9 +11,9 @@ const Intro = () => {
           <span className={style.brandName}>RANGKOPI</span> E-CATALOG
         </h1>
         <p className={style.desc}>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever
-          since the 1500s.
+        Jadwal buka:
+Weekdays: 15:00 - 23:00 Wib
+Weekend:  16:00 - 24:00 Wib
         </p>
         <button className={style.button}>DISCOVER</button>
       </div>
